@@ -1,0 +1,22 @@
+body {
+    color: yellow;
+    background-image: url("http://www.benhalsall.com/wp-content/uploads/2017/01/Spiral-Loop.gif")
+}
+
+main {
+    width: 60%;
+    margin: 0 auto;
+    font-family: "comic sans ms";
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 1em;
+}
+
+.chapter {
+    background-color: chartreuse;
+}
